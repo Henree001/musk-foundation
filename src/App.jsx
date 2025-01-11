@@ -31,7 +31,7 @@ const App = () => {
   };
 
   return (
-    <div className="py-4 background">
+    <div className="py-4">
       <div className="flex flex-col items-center justify-center">
         <img src="/company-logo.png" alt="" height={50} width={50} />
         <p className="text-2xl font-bold text-white">MUSK FOUNDATION</p>
