@@ -61,7 +61,7 @@ const App = () => {
       </div>
       <img src={charityImg} alt="" className="w-full" />
       <div>
-        <p className="bg-rose-800 p-2 text-center text-amber-500 py-8">
+        <p className="bg-rose-800 px-4 text-center text-amber-500 py-10">
           <p className="text-5xl font-bold mx-4 mb-2">Our Mission</p>
           <p>
             To connect generous donors with impactful causes, empowering them to
@@ -71,7 +71,7 @@ const App = () => {
         <div className="h-1/4">
           <img src={childrenImg} alt="" className="w-full aspect-[4/3]" />
         </div>
-        <p className="bg-amber-500 text-rose-800 text-center py-8">
+        <p className="bg-amber-500 px-4 text-rose-800 text-center py-10">
           <p className="text-5xl font-bold mx-4 mb-2">Our Vision</p>
           <p>
             A world where every individual has the opportunity to thrive, fueled
